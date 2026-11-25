@@ -1,0 +1,21 @@
+title: MoonBoots
+originalAuthor: Fluffey
+description: Fly me to the moon
+dependencies: 
+assets:
+- name: msg/jp/sys.bar
+  method: binarc
+  multi:
+  - name: msg/us/sys.bar
+  - name: msg/uk/sys.bar
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  source:
+  - name: sys
+    method: kh2msg
+    source:
+    - name: MoonBoots.yml
+      language: en
+    type: list

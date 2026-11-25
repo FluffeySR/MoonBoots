@@ -1,0 +1,32 @@
+- id: 1613
+  en: 'We going places.
+  
+The longer {:icon dynamic-circle} is pressed down,
+
+the higher the jump.'
+- id: 1615
+  en: 'The Sky is in your hands!
+  
+The longer {:icon dynamic-circle} is pressed down,
+
+the higher the jump.'
+- id: 1617
+  en: 'Entering the atmosphere!
+  
+The longer {:icon dynamic-circle} is pressed down,
+
+the higher the jump.'
+- id: 1619
+  en: 'An extreme jump! Time to fly
+  
+to the moon! The longer
+
+{:icon dynamic-circle} is pressed down, the higher the jump.'
+- id: 1612
+  en: 'Moon Boots'
+- id: 1614
+  en: 'Super Moon Boots'
+- id: 1616
+  en: 'Ultra Moon Boots'
+- id: 1618
+  en: 'ULTIMATE Moon Boots'
